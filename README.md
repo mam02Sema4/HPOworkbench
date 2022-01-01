@@ -8,6 +8,8 @@ through the hierarchy and displaying the term definition etc.
 
 Please see the [full documentation](http://hpo-workbench.readthedocs.io/en/latest/).
 
+https://hpo-workbench.readthedocs.io/en/latest/installation.html
+
 ## Version 2
 
 We are working on a version 2 using Java 16 and Spring Boot. To run HPO Workbench, you will need
